@@ -1,2 +1,4 @@
 node_modules
-# tester
+# testerj
+.env
+.prod.env
